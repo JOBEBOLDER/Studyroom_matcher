@@ -83,6 +83,8 @@ Framework: [Jakob Nielsen’s 10 Usability Heuristics](https://www.nngroup.com/a
 
 - 📽️ [Final Prototype Video](https://drive.google.com/drive/folders/1YpMqW_8ZiK4yztQ9nQ744DoG9VD42M1R?dmr=1&ec=wgc-drive-hero-goto)
 - 🖼️ Paper & digital prototypes available in the `prototype/` folder
+  <img width="1244" alt="image" src="https://github.com/user-attachments/assets/05226ba1-a98b-412e-af23-4784525e817a" />
+
 
 ---
 
