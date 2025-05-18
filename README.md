@@ -119,17 +119,7 @@ Framework: [Jakob Nielsen’s 10 Usability Heuristics](https://www.nngroup.com/a
 
 ---
 
-## 📂 Repository Structure
 
-📁 prototype/
-├── paper-prototype.pdf
-├── final_prototype_video_link.txt
-📁 docs/
-├── Final Project Prototype.pdf
-├── jieyao_Heuristic_Evaluation_Workbook_1_Fillable.pdf
-├── slay_the_finals_HCIProject.pdf
-
----
 
 ## 📩 Contact
 
