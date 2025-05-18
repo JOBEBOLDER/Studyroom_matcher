@@ -76,8 +76,7 @@ Framework: [Jakob Nielsen’s 10 Usability Heuristics](https://www.nngroup.com/a
 | ✅ Consistency & Standards          | Button and icon style inconsistencies → Standardized UI components         |
 | ✅ Help and Documentation           | No onboarding → Added tooltips and “?” icon on first-time use              |
 
-📘 Full evaluation: `/docs/jieyao_Heuristic_Evaluation_Workbook_1_Fillable.pdf`
-
+📘 Full evaluation: https://drive.google.com/drive/folders/1YpMqW_8ZiK4yztQ9nQ744DoG9VD42M1R?dmr=1&ec=wgc-drive-hero-goto
 ---
 
 ## 🎥 Demo & Prototype
